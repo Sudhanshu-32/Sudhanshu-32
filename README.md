@@ -1,13 +1,13 @@
 # Hey, I'm Sudhanshu 👋
 
-Final year IT student at IIMT, Greater Noida. I build full-stack web apps — mostly with the MERN stack and Next.js. I like working on things that actually solve a problem, not just tutorial clones.
-
-Right now I'm looking for my first full-time role as a software developer.
+Aspiring Data Scientist,who loves to play with data.With Hands on experience in python and its libraries and machine learning .
 
 ---
 
 ## What I work with
-
+**Programming Language**-Python 
+**Python Libraries**-Numpy,Pandas,Matplotlib,Seaborn
+**Machine learning**-Supervised machine learning,unsupervised machine learning
 **Frontend** — React.js, Next.js, TypeScript, Tailwind CSS, HTML, CSS, Bootstrap  
 **Backend** — Node.js, Express.js, REST APIs, LLM API integration  
 **Databases** — MongoDB, MySQL  
@@ -37,12 +37,7 @@ A full-stack healthcare platform with appointment booking, lab report management
 
 ---
 
-### 💼 Job Search Portal *(pushing soon)*
-A MERN-based job portal with three roles — job seekers, recruiters, and admin. Has JWT + Google OAuth authentication, resume uploads, and AI resume analysis using Gemini API.
 
-- Stack: React.js · Node.js · Express.js · MongoDB · JWT · Google OAuth · Gemini API
-
----
 
 ## Experience
 
@@ -62,7 +57,7 @@ Worked on production web apps. Implemented Stripe payment gateway and Nodemailer
 
 📧 sudhanshu805110sk@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/sudhanshu-kumar-dev/)  
-📍 Greater Noida, UP — open to remote & on-site roles
+📍 Noida, UP — open to remote & on-site roles
 
 ---
 
