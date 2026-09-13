@@ -5,9 +5,9 @@ Aspiring Data Scientist,who loves to play with data.With Hands on experience in 
 ---
 
 ## What I work with
-**Programming Language**-Python 
-**Python Libraries**-Numpy,Pandas,Matplotlib,Seaborn
-**Machine learning**-Supervised machine learning,unsupervised machine learning
+**Programming Language**-Python  
+**Python Libraries**-Numpy,Pandas,Matplotlib,Seaborn  
+**Machine learning**-Supervised machine learning,unsupervised machine learning  
 **Frontend** — React.js, Next.js, TypeScript, Tailwind CSS, HTML, CSS, Bootstrap  
 **Backend** — Node.js, Express.js, REST APIs, LLM API integration  
 **Databases** — MongoDB, MySQL  
